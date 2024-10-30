@@ -1,0 +1,107 @@
+.updatedcss {
+    background: none repeat scroll 0 0 #FFFFE0;
+    border: 1px solid #D3D3D3;
+    border-radius: 3px 3px 3px 3px;
+    margin: 0 auto 1.625em;
+    padding: 0.625em;
+    position: relative;
+    width: 94.9%;
+}
+
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+
+
+/* css for news */
+div#mjnew{	font-family: 'MyriadProRegular';}
+div#mjnew h3 {    border-bottom: 1px solid #DDDDDD;    font-size: 17px;    line-height: 1.5em;    text-transform: capitalize;}
+.mj-post-inner {    border: 1px solid #DDDDDD;    /* margin-bottom: 4px;   */  padding: 11px 14px;}
+.mjfooter .fr{float: right;}
+.mjfooter .fl{float: left;}
+.clr{clear: both; height:0px;display:block;}
+.mjfooter {    background: none repeat scroll 0 0 #DDDDDD;    margin: 0 0 19px;    padding: 0 17px;}
+#mjnew .page_nav a{ background: none repeat scroll 0 0 #DDDDDD;    color: gray;    padding: 6px;}
+#mjnew .page_nav span{background: none repeat scroll 0 0 gray;    border: 1px solid;    color: #FFFFFF;    padding: 6px;}
+/* css for news */
